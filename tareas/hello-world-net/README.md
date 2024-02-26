@@ -1,5 +1,4 @@
-# hello-world-net
+Aplicacion minima de .Net
+=========================
 
-Nombre: David Solano
-
-Carnet: 2022099157s
+Responder las preguntas aqui 

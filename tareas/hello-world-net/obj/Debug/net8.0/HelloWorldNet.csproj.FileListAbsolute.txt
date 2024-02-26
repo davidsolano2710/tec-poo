@@ -1,0 +1,15 @@
+C:\Users\elite\OneDrive - Estudiantes ITCR\Documentos\repo tec-poo\tec-poo\tareas\hello-world-net\bin\Debug\net8.0\HelloWorldNet.exe
+C:\Users\elite\OneDrive - Estudiantes ITCR\Documentos\repo tec-poo\tec-poo\tareas\hello-world-net\bin\Debug\net8.0\HelloWorldNet.deps.json
+C:\Users\elite\OneDrive - Estudiantes ITCR\Documentos\repo tec-poo\tec-poo\tareas\hello-world-net\bin\Debug\net8.0\HelloWorldNet.runtimeconfig.json
+C:\Users\elite\OneDrive - Estudiantes ITCR\Documentos\repo tec-poo\tec-poo\tareas\hello-world-net\bin\Debug\net8.0\HelloWorldNet.dll
+C:\Users\elite\OneDrive - Estudiantes ITCR\Documentos\repo tec-poo\tec-poo\tareas\hello-world-net\bin\Debug\net8.0\HelloWorldNet.pdb
+C:\Users\elite\OneDrive - Estudiantes ITCR\Documentos\repo tec-poo\tec-poo\tareas\hello-world-net\obj\Debug\net8.0\HelloWorldNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elite\OneDrive - Estudiantes ITCR\Documentos\repo tec-poo\tec-poo\tareas\hello-world-net\obj\Debug\net8.0\HelloWorldNet.AssemblyInfoInputs.cache
+C:\Users\elite\OneDrive - Estudiantes ITCR\Documentos\repo tec-poo\tec-poo\tareas\hello-world-net\obj\Debug\net8.0\HelloWorldNet.AssemblyInfo.cs
+C:\Users\elite\OneDrive - Estudiantes ITCR\Documentos\repo tec-poo\tec-poo\tareas\hello-world-net\obj\Debug\net8.0\HelloWorldNet.csproj.CoreCompileInputs.cache
+C:\Users\elite\OneDrive - Estudiantes ITCR\Documentos\repo tec-poo\tec-poo\tareas\hello-world-net\obj\Debug\net8.0\HelloWorldNet.sourcelink.json
+C:\Users\elite\OneDrive - Estudiantes ITCR\Documentos\repo tec-poo\tec-poo\tareas\hello-world-net\obj\Debug\net8.0\HelloWorldNet.dll
+C:\Users\elite\OneDrive - Estudiantes ITCR\Documentos\repo tec-poo\tec-poo\tareas\hello-world-net\obj\Debug\net8.0\refint\HelloWorldNet.dll
+C:\Users\elite\OneDrive - Estudiantes ITCR\Documentos\repo tec-poo\tec-poo\tareas\hello-world-net\obj\Debug\net8.0\HelloWorldNet.pdb
+C:\Users\elite\OneDrive - Estudiantes ITCR\Documentos\repo tec-poo\tec-poo\tareas\hello-world-net\obj\Debug\net8.0\HelloWorldNet.genruntimeconfig.cache
+C:\Users\elite\OneDrive - Estudiantes ITCR\Documentos\repo tec-poo\tec-poo\tareas\hello-world-net\obj\Debug\net8.0\ref\HelloWorldNet.dll
