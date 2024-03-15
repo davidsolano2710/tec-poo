@@ -4,6 +4,7 @@ public class Battleship{
     
     private String name; 
     private int size;
+    private int orientation; // 0 vertical, 1 horizontal
 
     public void setName(String name){
         this.name = name;
@@ -19,6 +20,14 @@ public class Battleship{
 
     public int getSize(){
         return size;
+    }
+
+    public void setOrientation(int orientation){
+        this.orientation = orientation;
+    }
+
+    public int getOrientation(){
+        return orientation;
     }
 
     public void hit(){
